@@ -1,1 +1,2 @@
 Ainda assim, existem dúvidas a respeito de como a constante divulgação das informações acarreta um processo de reformulação e modernização das diretrizes de desenvolvimento para o futuro.
+Alterando o arquivo para teste do git
